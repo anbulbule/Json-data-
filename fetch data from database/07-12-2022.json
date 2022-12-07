@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "student_name": "Abhishek",
+        "city": "saundatti"
+    },
+    {
+        "id": "2",
+        "student_name": "Anup ",
+        "city": "pune"
+    },
+    {
+        "id": "3",
+        "student_name": "vaibhav",
+        "city": "gokak"
+    },
+    {
+        "id": "4",
+        "student_name": "sunil",
+        "city": "dharwad"
+    },
+    {
+        "id": "5",
+        "student_name": "anil",
+        "city": "bangalore"
+    },
+    {
+        "id": "6",
+        "student_name": "suresh",
+        "city": "hubli"
+    }
+]
